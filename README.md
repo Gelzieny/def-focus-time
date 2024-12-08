@@ -5,7 +5,7 @@ a primeira sendo a criação do timer, controles e cards de som; e a segunda sen
 
 ## 🎨 Layout
 
-O layout do projeto está disponível no [Figma](https://www.figma.com/design/z22O4n0W19Zx9FoUyIew64/Focus-Timer-V2-%E2%80%A2-Projeto-Explorer-(Community)?node-id=1422-28&node-type=canvas&t=aR937nV3bkHJiF1q-0)
+O layout do projeto está disponível no [Figma](https://www.figma.com/design/LPz4j6xdSJTwVhRze6qdyG/Stage-05---Focus-Timer-2.0-(Copy)?node-id=0-4&node-type=frame&t=5fHVY0YT2jOQEbRD-0)
 
 <p align="center">
   <img alt="" src=".github/dark-mode.png" width="400">
